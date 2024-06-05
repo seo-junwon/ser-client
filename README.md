@@ -23,7 +23,12 @@
 먼저, 프로젝트의 소스 코드를 로컬로 복사합니다.
 
 '''bash
-git clone 
+git clone https://github.com/seo-junwon/ser-client.git
+cd chating
+
+
+
+
 
 
 
