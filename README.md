@@ -5,26 +5,23 @@
 ##목차
 
 -[소개]
--[설치]
--[사용법]
--[기여]
--[라이선스]
--[연락처]
+-[팀원]
+-[기술스택]
+-[주요기능]
+-[프로젝트 아키텍쳐]
 
 ##소개
-채팅 프로그램은 소켓 프로그램을 이용한 프로그램이다. 서버는 클라이언트의 연결을 기다리면서 
-클라이언트로부터 요청이 오면 연결을 하고 새로운 스레드를 생성한다. 이 스레드는 클라이언트의 
-메시지를 다른 클라이언트에게 보내는 작업을 수행한다. 클라이언트는 처음 자신의 이름을 입력하면 
-자신의 이름과 입력한 메시지가 서버에 연결된 클라이언트들에게 보내진다.
+이 프로그램은 서버 하나를 두고 여러 클라이언트들끼리 대화를 주고 받을 수 있는 프로그램입니다.
+클라이언트들은 실시간으로 서로 대화를 주고 받을 수 있습니다.
 
-##설치
+##팀원
+이름: 서준원 메일:newwnsdnjs@ajou.ac.kr
 
-### 1. 프로젝트 복사
-먼저, 프로젝트의 소스 코드를 로컬로 복사합니다.
+##기술스택
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/C-F05032?style=flat&logo=C&logoColor=white)
 
-'''bash
-git clone https://github.com/seo-junwon/ser-client.git
-cd chating
 
 
 
