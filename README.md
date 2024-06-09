@@ -29,7 +29,7 @@
 
 
 ## 프로젝트 흐름도
-![서버와 클라이언트가 통신하는 흐름](./다이어그램.png)
+![diagram](https://github.com/seo-junwon/ser-client/assets/171214866/d96f62e2-8341-4974-a5fe-5749cc7bd0ae)
 
 
 
